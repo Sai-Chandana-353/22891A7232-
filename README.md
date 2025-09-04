@@ -29,18 +29,19 @@ npm start
 
 ## Screenshots
 
-### Homepage
-(./screenshots/"image1.png")
+## 📸 Screenshots
 
+### 🏠 Homepage
+![Homepage](./screenshots/image1.png)
 
-### Shortened URL Created
-![URL Created](./screenshots/Screenshot2.png)
+### 🔗 Shortened URL Created
+![URL Created](./screenshots/image2.png)
 
-### Statistics Page
-![Statistics](./screenshots/Screenshot3.png)
+### 📊 Statistics Page
+![Statistics](./screenshots/image3.png)
 
-### Click Details
-![Click Details](./screenshots/Screenshot4.png)
+### 👆 Click Details
+![Click Details](./screenshots/image4.png)
 
-### Logs
-![Logs](./screenshots/Screenshot5.png)
+### 📝 Logs
+![Logs](./screenshots/image5.png)
