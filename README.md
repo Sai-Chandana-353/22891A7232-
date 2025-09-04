@@ -32,7 +32,7 @@ npm start
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/image1.png)
+![Homepage](./Screenshots/image1.png)
 
 ### 🔗 Shortened URL Created
 ![URL Created](./screenshots/image2.png)
