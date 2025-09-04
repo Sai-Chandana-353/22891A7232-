@@ -30,7 +30,8 @@ npm start
 ## Screenshots
 
 ### Homepage
-Screenshots/Screenshot 2025-09-04 122737.png
+![Homepage](./screenshots/"image1.png")
+
 
 ### Shortened URL Created
 ![URL Created](./screenshots/Screenshot2.png)
