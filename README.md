@@ -35,13 +35,13 @@ npm start
 ![Homepage](./Screenshots/image1.png)
 
 ### 🔗 Shortened URL Created
-![URL Created](./screenshots/image2.png)
+![URL Created](./Screenshots/image2.png)
 
 ### 📊 Statistics Page
-![Statistics](./screenshots/image3.png)
+![Statistics](./Screenshots/image3.png)
 
 ### 👆 Click Details
-![Click Details](./screenshots/image4.png)
+![Click Details](./Screenshots/image4.png)
 
 ### 📝 Logs
-![Logs](./screenshots/image5.png)
+![Logs](./Screenshots/image5.png)
