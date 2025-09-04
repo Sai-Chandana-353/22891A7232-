@@ -25,3 +25,21 @@ npm start
 ## Notes
 - This is a client-side demo (no real backend). shorten action simulates a response.
 - Preloaded sample logs are injected into `public/index.html` for demo purposes.
+# React URL Shortener
+
+## Screenshots
+
+### Homepage
+![Homepage](./screenshots/Screenshot1.png)
+
+### Shortened URL Created
+![URL Created](./screenshots/Screenshot2.png)
+
+### Statistics Page
+![Statistics](./screenshots/Screenshot3.png)
+
+### Click Details
+![Click Details](./screenshots/Screenshot4.png)
+
+### Logs
+![Logs](./screenshots/Screenshot5.png)
